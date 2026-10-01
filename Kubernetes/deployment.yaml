@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: zomato
-        image: 398031302824.dkr.ecr.ap-south-1.amazonaws.com/zomato-kastro:47
+        image: 398031302824.dkr.ecr.ap-south-1.amazonaws.com/zomato-kastro:52
         ports:
         - containerPort: 3000
